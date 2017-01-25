@@ -33,8 +33,15 @@ The code is written by Matilde Vaghi and Fabrice Luyckx
 - Experiment
 	- Vortex_main.m 
 	- Vortex_functions
-		- 
-
+		- Instructions
+		- Vortex_initialise.m
+		- Vortex_instructions.m
+		- Vortex_send_email.m
+		- Vortex_setup.m
+		- Vortex_trial.m
+		- circle.m
+		- printText.m
+		
 - Functions 
 	- diffcirc.m
 	- estimateLR.m
