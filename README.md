@@ -17,36 +17,38 @@ The code is written by Matilde Vaghi and Fabrice Luyckx
  	- Vortex_Regressions.m 
 
 - Data 
-  Behavioural 
-  	Vortex_ocd_fulldata.mat 
+  	- Behavioural 
+  		- Vortex_ocd_fulldata.mat 
 
- Questionnaires
-	VortexBet_DepOCDMeasures.txt 
+ 	- Questionnaires
+		- VortexBet_DepOCDMeasures.txt 
 
- RPlotData
-	VortexBet_ErrorMag.txt
-	VortexBet_LR.txt
-	VortexBet_RegConfidence.txt
-	VortexBet_RegDiscrepancy.txt
-	VortexBet_RegLearningRate.txt
+	 - RPlotData
+		- VortexBet_ErrorMag.txt
+		- VortexBet_LR.txt
+		- VortexBet_RegConfidence.txt
+		- VortexBet_RegDiscrepancy.txt
+		- VortexBet_RegLearningRate.txt
   
 - Experiment
-	Vortex_main.m 
+	- Vortex_main.m 
+	- Vortex_functions
+		- 
 
 - Functions 
-	diffcirc.m
-	estimateLR.m
-	getChange.m 
-	redBayes_circ.m
-	regr_fitglm.m
-	round.m
-	shift.m
+	- diffcirc.m
+	- estimateLR.m
+	- getChange.m 
+	- redBayes_circ.m
+	- regr_fitglm.m
+	- round.m
+	- shift.m
 
 - Plots
-	Plot_Correlation.tiff
-	Plot_ErrorMagnitude.tiff
-	Plot_LearningRate.tiff
-	Plot_RegConfidence.tiff
-	Plot_RegDiscrepancy.tiff
-	Plot_RegLearning.tiff
-	Plot_ModelBehaviour.eps
+	- Plot_Correlation.tiff
+	- Plot_ErrorMagnitude.tiff
+	- Plot_LearningRate.tiff
+	- Plot_RegConfidence.tiff
+	- Plot_RegDiscrepancy.tiff
+	- Plot_RegLearning.tiff
+	- Plot_ModelBehaviour.eps
