@@ -7,14 +7,14 @@ The code is written by Matilde Vaghi and Fabrice Luyckx
 - The code is a mixture of Matlab and R. 
 
 - Analysis
-  	Vortex_basicstats.m
- 	Vortex_bic.m
- 	Vortex_changePoint.m 
-  	Vortex_ErrorMagnitude.m
-  	Vortex_load.m
-  	Vortex_medication.m 
- 	Vortex_PlotErr.R
- 	Vortex_Regressions.m 
+  	- Vortex_basicstats.m
+ 	- Vortex_bic.m
+ 	- Vortex_changePoint.m 
+  	- Vortex_ErrorMagnitude.m
+  	- Vortex_load.m
+  	- Vortex_medication.m 
+ 	- Vortex_PlotErr.R
+ 	- Vortex_Regressions.m 
 
 - Data 
   Behavioural 
