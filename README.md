@@ -1,4 +1,4 @@
-# Vortex_OCD
+# Vaghi, Luyckx et al (2017)
 
 This is the data and code required to obtain the analysis results presented in Vaghi, Luyckx, et al., XXX.Disentangling action from confidence in Obsessive-Compulsive Disorder
 
