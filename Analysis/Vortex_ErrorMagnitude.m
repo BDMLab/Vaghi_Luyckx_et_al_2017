@@ -2,7 +2,7 @@
 %% Vortex: error magnitude
 %%%%%%%%%%%%%%%%%%%%%%%%%%
 
-% Generates data presented in Figure 1D and writes it to a data file that
+% Generates data presented in Figure 2B and writes it to a data file that
 % can produce the plot in R.
 
 %% LOAD DATA
